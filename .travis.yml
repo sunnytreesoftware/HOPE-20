@@ -27,4 +27,4 @@ notifications:
 
 after_success:
   curl --silent
-  # URL TO STAGE SITE HERE # Staging site
+  https://forge.laravel.com/servers/273696/sites/1035159/deploy/http?token=hcHBlI7lSzJhhjK3ooKN1LVs36WIE95IUJ45fZmI # Staging site
