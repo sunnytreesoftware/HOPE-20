@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>HOPE-20</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     HOPE-20 <br>
-                    Developed for NASA's Covid-19 Hackathon(2020)
+                    <span style="font-size:18px">Developed for NASA's Covid-19 Hackathon(2020)</span>
                 </div>
 
 
