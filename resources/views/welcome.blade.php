@@ -81,10 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    HOPE-20 <br>
-                    <span style="font-size:18px">Developed for NASA's Covid-19 Hackathon(2020)</span>
-                </div>
+                    HOPE-20
 
+                </div>
+                <p style="font-size:32px">Developed for NASA's Covid-19 Hackathon(2020)</p>
 
 {{--                <div class="links">--}}
 {{--                    <a href="https://laravel.com/docs">Docs</a>--}}
