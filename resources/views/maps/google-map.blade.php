@@ -2,11 +2,7 @@
 
 @section('content')
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-12 mb-3">
-                <h3 class="text-center">Geographical based A.I. system for predictability and analytics of Covid-19 hotspots.</h3>
-            </div>
-        </div>
+
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div id="map"></div>

@@ -39,6 +39,11 @@
 
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
+                        <!-- Public Links -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="/map">Map</a>
+                        </li>
+
                         <!-- Authentication Links -->
                         @guest
                             <li class="nav-item">
