@@ -24,3 +24,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/map', function () {
     return view('maps.google-map');
 });
+
+Route::get('/wastewater-treatment-plants', function () {
+    return view('maps.wastewater-treatment-plants');
+});
